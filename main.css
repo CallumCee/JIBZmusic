@@ -1,7 +1,7 @@
-@import url("https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/users.css");
-@import url("https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/wam.css");
-@import url("https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/staff.css");
-@import url("https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/bot.css");
+@import url("https://rawgit.com/CallumCee/JIBZmusic/master/users.css");
+@import url("https://rawgit.com/CallumCee/JIBZmusic/master/wam.css");
+@import url("https://rawgit.com/CallumCee/JIBZmusic/master/staff.css");
+@import url("https://rawgit.com/CallumCee/JIBZmusic/master/bot.css");
 
 .icon-room { 
 	width: 75px !important;

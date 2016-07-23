@@ -1,8 +1,8 @@
 {
     "room": "JIBZ Music",
     "author": "callumcee",
-    "icon": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/logo.png",
-    "css": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/main.css",
+    "icon": "https://rawgit.com/CallumCee/JIBZmusic/master/img/logo.png",
+    "css": "https://rawgit.com/CallumCee/JIBZmusic/master/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -27,19 +27,19 @@
         "user": null
     },
     "images": {
-        "background": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/background.jpg",
-        "playback": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/playback.png",
+        "background": "https://rawgit.com/CallumCee/JIBZmusic/master/img/background.jpg",
+        "playback": "https://rawgit.com/CallumCee/JIBZmusic/master/img/playback.png",
         "admin": null,
         "ambassador": null,
-        "host": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/host.png",
+        "host": "https://rawgit.com/CallumCee/JIBZmusic/master/img/host.png",
         "cohost": null,
-        "manager": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/manager.png",
-        "bouncer": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/bouncer.png",
-        "rdj": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/rdj.png",
+        "manager": "https://rawgit.com/CallumCee/JIBZmusic/master/img/manager.png",
+        "bouncer": "https://rawgit.com/CallumCee/JIBZmusic/master/img/bouncer.png",
+        "rdj": "https://rawgit.com/CallumCee/JIBZmusic/master/img/rdj.png",
         "subscriber": null,
         "silversubscriber": null
     },
     "emotes": {
-    	"boab": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/boab.png"
+    	"boab": "https://rawgit.com/CallumCee/JIBZmusic/master/img/boab.png"
     }
 }
