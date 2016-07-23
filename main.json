@@ -1,8 +1,8 @@
 {
     "room": "JIBZ Music",
     "author": "callumcee",
-    "icon": "$logourl",
-    "css": "$cssurl",
+    "icon": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/logo.png",
+    "css": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -27,19 +27,19 @@
         "user": null
     },
     "images": {
-        "background": "$backgroundurl",
-        "playback": "$playbackurl",
+        "background": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/background.jpg",
+        "playback": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/playback.png",
         "admin": null,
         "ambassador": null,
-        "host": "$hosturl",
+        "host": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/host.png",
         "cohost": null,
-        "manager": "$managerurl",
-        "bouncer": "$bouncerurl",
-        "rdj": "$rdjurl",
+        "manager": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/manager.png",
+        "bouncer": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/bouncer.png",
+        "rdj": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/rdj.png",
         "subscriber": null,
         "silversubscriber": null
     },
     "emotes": {
-    	"boab": "$boaburl",
+    	"boab": "https://raw.githubusercontent.com/CallumCee/JIBZmusic/master/img/boab.png",
     }
 }
