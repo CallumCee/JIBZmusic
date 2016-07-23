@@ -1,0 +1,45 @@
+{
+    "room": "JIBZ Music",
+    "author": "callumcee",
+    "icon": "$logourl",
+    "css": "$cssurl",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#66ff33",
+        "cohost": null,
+        "manager": "#ff9933",
+        "bouncer": "#ff0000",
+        "rdj": "#ffff00",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "$backgroundurl",
+        "playback": "$playbackurl",
+        "admin": null,
+        "ambassador": null,
+        "host": "$hosturl",
+        "cohost": null,
+        "manager": "$managerurl",
+        "bouncer": "$bouncerurl",
+        "rdj": "$rdjurl",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"boab": "$boaburl",
+    }
+}
